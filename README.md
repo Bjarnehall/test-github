@@ -36,3 +36,13 @@ Lös konflikten
 Om inga konflikter och index.html visar en ny färg och ny rubrik har vi lyckats 
 jobba enligt github workflow YAY :D
 
+## Innan ny branch hämta ändringar från main
+
+Se till att vara på main branch
+git checkout main
+
+Hämta ändringar
+git fetch origin
+
+Uppdatera local main
+git pull origin main
