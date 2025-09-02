@@ -23,9 +23,9 @@ kan "review" våra ändringar efter feedback från varandra fortsätter vi.
 
 ## Merge Pull request
 
-Här kan konflikter uppstå tänker att det är bra om det blir konflik så kan vi
+Här kan konflikter uppstå tänker att det är bra om det blir konflikt så kan vi
 lära oss att lösa detta. Eftersom att vi båda är inne och ändrar i index.html
-borde en konflikt uppstå för den "sista" personen försöker merga.
+borde en konflikt uppstå för den "sista" personen som försöker merga?.
 
 ## Fixa konflikt
 
